@@ -26,7 +26,7 @@
       "mode": "TV",
       "emulateDisplayDimensions": true,
       "scaleToFill": true,
-      "audioInputInitiator": "PRESS_AND_HOLD",
+      "audioInputInitiator": "TAP",
       "windows": [
         {
           "id": "tvFullscreen",
